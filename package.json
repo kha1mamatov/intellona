@@ -1,8 +1,0 @@
-{
-  "name": "intellona",
-  "version": "1.0.0",
-  "dependencies": {
-    "@vercel/analytics": "latest",
-    "next": "14.1.0"
-  }
-}
